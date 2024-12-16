@@ -1,0 +1,6 @@
+Step 1 : Create new Jupiter notebook file
+Step 2 : Import your pandas and numpy accordingy
+Step 3 : Select number of character,name of the rows and column
+Step 4 : Executethe line of code
+Step 5 : write the datafframe.head() to view whole dataframe
+Step 6 : Save the file and upload it tothe project panel
